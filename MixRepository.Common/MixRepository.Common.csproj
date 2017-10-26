@@ -56,6 +56,7 @@
   <ItemGroup>
     <Compile Include="Data\IMixRepository.cs" />
     <Compile Include="Data\MixRepository.cs" />
+    <Compile Include="Data\MixRepositorySQL.cs" />
     <Compile Include="Model\Mix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
