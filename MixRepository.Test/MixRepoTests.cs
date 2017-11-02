@@ -33,7 +33,7 @@ namespace MixRepository.Common.Data
 			var repo = new MixRepository();
 			var mix = new Mix();
 			mix.MixName = "Test";
-			mix.Ratio = "1:1";
+			mix.Ratio = "1:2";
 			var mixList = new List<Mix>();
 			mixList.Add(mix);
 			repo.Add(mixList);
